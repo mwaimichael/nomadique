@@ -1,0 +1,2 @@
+# Is the primary prompt variable which controls what your command line prompts looks like
+$PS1 = \u-username, \h-hostname,\w-current working directory
