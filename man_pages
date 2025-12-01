@@ -1,0 +1,2 @@
+Provide in-depth documentation about many programs & utilities as well as other topics, including configuration files & programming APIs for system calls. library routines & the kernel.
+Output of man is piped with a pager program like less so that it is viewed a page at a time & formatted for a good visual display.
