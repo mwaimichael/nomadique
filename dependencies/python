@@ -1,2 +1,9 @@
 geolocation
 pytz
+
+def function_1():
+	name = input("What is your name?")
+	print("Name: ", name)
+
+function_1()
+

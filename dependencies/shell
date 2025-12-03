@@ -1,2 +1,5 @@
 # /bin/bash is used
-scripting is used to automate simple workflows
+# scripting is useful  for  automating simple workflows.
+# bash is the most common shell used for scripting followed closely by tcsh
+
+
