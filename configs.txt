@@ -7,5 +7,5 @@ i5 7th Gen (7200U) @ 2.50GHz
 # OS Version
 Windows 11 & Ubuntu 22.04
 
-# CPU Family
+# CPU Family type
 6
