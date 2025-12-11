@@ -2,10 +2,17 @@
 X86_64
 
 # CPU Speed
-i5 7th Gen (7200U) @ 2.50GHz
+i5 7th Gen (7200U) @ 2.50GHz (Min- Max: 400 - 3100)
 
 # OS Version
 Windows 11 & Ubuntu 22.04
 
 # CPU Family type
 6
+
+# Model                   
+142
+
+# Address sizes             
+39 bits physical, 48 bits virtual
+
