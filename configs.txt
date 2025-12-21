@@ -16,3 +16,6 @@ Windows 11 & Ubuntu 22.04
 # Address sizes             
 39 bits physical, 48 bits virtual
 
+# Laptop Brand
+HP Pavilion 
+
